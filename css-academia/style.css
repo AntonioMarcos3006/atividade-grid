@@ -237,11 +237,12 @@ body {
 
 .hero {
     background-color: #1a1a2e;
-    /* ESCREVA SEU CODIGO AQUI */
+    position: relative;
 }
 
 .hero-conteudo {
-    /* ESCREVA SEU CODIGO AQUI */
+    position: relative;
+    z-index: 2;
 }
 
 
